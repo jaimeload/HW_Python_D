@@ -1,4 +1,4 @@
-import fractions
+#import fractions
 
 frac_1 = [int(x) for x in input('Введите первую дробь вида “a/b”: ').split('/')]
 frac_2 = [int(x) for x in input('Введите вторую дробь вида “a/b”: ').split('/')]
